@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90974ca8-4090-42fe-84b5-f1a24e37cc49" name="Changes" comment="">
+    <list default="true" id="90974ca8-4090-42fe-84b5-f1a24e37cc49" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/add3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/additional.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/additional3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/homework.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +41,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,8 +64,16 @@
       <updated>1659102685719</updated>
       <workItem from="1659102687299" duration="37000" />
       <workItem from="1659204958678" duration="3113000" />
-      <workItem from="1659304521767" duration="9739000" />
+      <workItem from="1659304521767" duration="26369000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1659387167789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659387167789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
