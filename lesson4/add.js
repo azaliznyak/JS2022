@@ -57,20 +57,20 @@
 // - знайти книжку/ки які писали 2 автори
 // - знайти книжку/ки які писав 1 автор
 
-
-let bookArray=[
-    {name:'The Free World',
-    pages: 600,
-    author: 'Louis Menand',
-        genre:'drama'
-    }
-    ,
-    {name:'One Last Stop',
-        pages: 400,
-        author: ' Casey McQuiston',
-        genre: 'romance novel'},
-    {name:'',
-        pages: ,
-        author: ,
-        genre:}
-]
+//
+// let bookArray=[
+//     {name:'The Free World',
+//     pages: 600,
+//     author: 'Louis Menand',
+//         genre:'drama'
+//     }
+//     ,
+//     {name:'One Last Stop',
+//         pages: 400,
+//         author: ' Casey McQuiston',
+//         genre: 'romance novel'},
+//     {name:'',
+//         pages: ,
+//         author: ,
+//         genre:}
+// ]

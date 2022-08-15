@@ -84,10 +84,10 @@ let products = [
 // // //
 
 for (let product of products) {
-    document.write(`<div className="product-card">
+    document.write(`<div class="product-card">
 
-       <h3 className="product-title">${product.title}. Price - ${product.price}</h3>
-       <img src="${product.image}" alt="" className="product-image">
+       <h3 class="product-title">${product.title}. Price - ${product.price}</h3>
+       <img src="${product.image}" alt="" class="product-image">
         </div>`)
 
 }

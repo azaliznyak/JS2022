@@ -1,4 +1,23 @@
 .post-card{
-    width: 100px;
+    /*width: 100px;*/
+    /*height: 150px;*/
     background: aqua;
+    flex-direction: column;
+
+
+
+}
+.wrap{
+    display: flex;
+    /*flex-direction: column;*/
+    column-gap: 80px;
+    width: 100px;
+    height: 150px;
+
+
+
+
+}
+body{
+    width: 100%;
 }

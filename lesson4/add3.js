@@ -605,8 +605,8 @@ let items=[
 ];
 
 for (let item of items) {
-   document.write(`<div className="wrap">
-        <div className="post-card">
+   document.write(`<div class="wrap">
+        <div class="post-card">
             <h3>${item.id} - ${item.title}</h3>
             <p>${item.body}</p>
         </div>`)
